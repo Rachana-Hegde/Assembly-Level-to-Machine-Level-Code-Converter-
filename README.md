@@ -45,7 +45,7 @@ Enter your choice:
 ```
 
 ### **2️⃣ Assembling (Assembly → Machine Code)**
-Create an **assembly input file** (`input.asm`):
+Create an **assembly input file** (`input.txt`):
 ```
 LOAD 5
 ADD 3
@@ -54,7 +54,7 @@ HALT
 ```
 Run the assembler:
 ```
-Enter input file name: input.asm
+Enter input file name: input.txt
 ```
 ✅ **Output file (`machine_output.txt`)**:
 ```
@@ -65,7 +65,7 @@ Enter input file name: input.asm
 ```
 
 ### **3️⃣ Disassembling (Machine Code → Assembly)**
-Create a **machine code file** (`input.mc`):
+Create a **machine code file** (`input.txt`):
 ```
 001 00000005
 011 00000003
@@ -74,7 +74,7 @@ Create a **machine code file** (`input.mc`):
 ```
 Run the disassembler:
 ```
-Enter input file name: input.mc
+Enter input file name: input.txt
 ```
 ✅ **Output file (`assembly_output.txt`)**:
 ```
@@ -97,6 +97,5 @@ HALT
 ## 📄 License
 This project is open-source and available under the **MIT License**.
 
-📬 Contact
-🔗 GitHub: Rachana-Hegde
+
 
