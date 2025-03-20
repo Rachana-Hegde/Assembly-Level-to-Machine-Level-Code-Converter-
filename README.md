@@ -4,10 +4,10 @@
 A simple C-based **Assembler and Disassembler** that converts **Assembly Language** to **Machine Code** and vice versa. It supports a basic instruction set with mnemonics and their respective binary opcodes.
 
 ## 🚀 Features
-✅ Convert Assembly Language to Machine Code (`Assemble`)
-✅ Convert Machine Code back to Assembly Language (`Disassemble`)
-✅ Supports basic mnemonics: `HALT`, `LOAD`, `STORE`, `ADD`, `SUB`, `MUL`, `DIV`
-✅ Reads input from a file and writes the converted output to a new file
+- ✅ Convert Assembly Language to Machine Code (`Assemble`)
+- ✅ Convert Machine Code back to Assembly Language (`Disassemble`)
+- ✅ Supports basic mnemonics: `HALT`, `LOAD`, `STORE`, `ADD`, `SUB`, `MUL`, `DIV`
+- ✅ Reads input from a file and writes the converted output to a new file
 
 ## 📂 Supported Mnemonics and Opcodes
 | Mnemonic | Opcode |
