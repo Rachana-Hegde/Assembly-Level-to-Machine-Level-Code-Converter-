@@ -1,4 +1,3 @@
-
 # Assembly Level to Machine Level Code Converter 
 
 A simple C-based **Assembler and Disassembler** that converts **Assembly Language** to **Machine Code** and vice versa. It supports a basic instruction set with mnemonics and their respective binary opcodes.
