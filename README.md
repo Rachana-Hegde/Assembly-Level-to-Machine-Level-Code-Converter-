@@ -94,11 +94,8 @@ HALT
 - Error handling improvements
 - GUI version for easier usability
 
-## 📄 License
-This project is open-source and available under the **MIT License**.
-
 ## 📬 Contact  
 
 For any inquiries or feedback, feel free to reach out:    
-🔗 **GitHub**: Rachana-Hegde(https://github.com/Rachana-Hegde)
+🔗 **GitHub**: Rachana-Hegde
 
